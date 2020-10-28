@@ -4,8 +4,10 @@ After working in data analysis and finance, I've discovered my passion for softw
 
 My stacks:
 Front-end: React.JS, Vue.JS, JavaScript, HTML, CSS
+
 Back-end: Python, Flask, SQL
 Testing: E2E and Unit-Testing with Jest & Puppeteer.
+
 Data: Tableau, MixPanel, PostgreSQL, Google BigQuery.
 Other: Microsoft Office, Salesforce.
 

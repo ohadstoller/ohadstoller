@@ -1,5 +1,6 @@
 
 ## 👨‍💻 Ohad Mark Stoller | <strong>Full Stack Developer</strong>
+First and foremost, I love writing code, and feel extremely lucky to have found my passion.
 > First and foremost, I love writing code, and feel extremely lucky to have found my passion.
 > 
 > Javascript/Typescript, React, Vue, node.js (Express), Flux (MobX, Redux, Vuex), PostgreSQL, Firebase, Jest & Puppeteer, CI/CD, Git.

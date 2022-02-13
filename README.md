@@ -1,7 +1,7 @@
 
 ## 👨‍💻 Ohad Mark Stoller | <strong>Full Stack Developer</strong>
-
-> After working in data analysis and finance, I've discovered my passion for software engineering and became a Full Stack Developer. I'm a self-motivated all-arounder, with a strong interdisciplinary background and organizational skills.
+> First and foremost, I love writing code, and feel extremely lucky to have found my passion
+> Javascript/Typescript, React, Vue, node.js (Express), Flux (MobX, Redux, Vuex), PostgreSQL, Firebase, Jest & Puppeteer, CI/CD, Git.
 #RTFM.
 
 

@@ -1,5 +1,5 @@
 
-## 👨‍💻 Ohad Mark Stoller | <strong>Full Stack Developer</strong>
+## Ohad Mark Stoller | <strong>Software Developer, Full-Stack</strong>
 First and foremost, I love writing code, and feel extremely lucky to have found my passion. #RTFM.
 
 > Javascript/Typescript, React, Vue, node.js (Express), Flux (MobX, Redux, Vuex), PostgreSQL, Firebase, Jest & Puppeteer, CI/CD, Git.

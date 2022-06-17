@@ -15,9 +15,8 @@ First and foremost, I love writing code, and feel extremely lucky to have found 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue"/></code>
 <code><img height="32" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux"/></code>
 <code><img height="32" src="https://seeklogo.com/images/R/rxjs-logo-DD3DF87EEF-seeklogo.com.png" alt="rxjs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="http://assets.stickpng.com/thumbs/5848104fcef1014c0b5e4950.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 <code><img height="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git"/></code>
 
 ---

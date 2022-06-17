@@ -1,7 +1,7 @@
 
 ## Ohad Mark Stoller | <strong>Full-Stack Engineer</strong>
 First and foremost, I love writing code, and feel extremely lucky to have found my passion. 
-I help shaping the future of fintech in the automotive world.
+I help shaping the future of fintech in the automotive world @ Fuse.
 
 #RTFM.
 

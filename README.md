@@ -1,6 +1,9 @@
 
 ## Ohad Mark Stoller | <strong>Software Developer, Full-Stack</strong>
-First and foremost, I love writing code, and feel extremely lucky to have found my passion. #RTFM.
+First and foremost, I love writing code, and feel extremely lucky to have found my passion. 
+I help shaping the future of fintech in the automotive world.
+
+#RTFM.
 
 > Javascript/Typescript, React, Vue, node.js (Nest, Express), State Management (Redux, RTK, Vuex), PostgreSQL, Protobuf, Firebase, Jest & Puppeteer, CI/CD, Git.
 

@@ -19,7 +19,6 @@ I help shaping the future of fintech in the automotive world @ Fuse.
 <code><img height="32" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux"/></code>
 <code><img height="32" src="https://seeklogo.com/images/R/rxjs-logo-DD3DF87EEF-seeklogo.com.png" alt="rxjs"/></code>
 <code><img height="32" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="nestJS"/></code>
-<code><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.pngg" alt="node"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git"/></code>
 

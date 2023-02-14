@@ -5,7 +5,9 @@ I help shaping the future of fintech in the automotive world @ Fuse.
 
 #RTFM.
 
-> Javascript/Typescript, React, Vue, node.js (Nest, Express), State Management (Redux-RTK Query, Vuex), Styled Components, PostgreSQL, Protobuf, Firebase, Jest & Puppeteer, CI/CD, Git.
+“I'm a programmer. I like programming. And the best way I've found to have a positive impact on code is to write it.”
+
+> Javascript/Typescript, React, Vue, node.js (Nest, Express), State Management (Redux-RTK Query, Vuex), Styled Components, PostgreSQL, Protobuf, AWS, Firebase, Jest & Puppeteer, CI/CD, Git.
 
 
 ## 🚀 Stacks
